@@ -1,0 +1,14 @@
+{
+    "name": "zhanxuewen/composer",
+    "description": "a test for composer",
+    "type": "project",
+    "license": "mit",
+"authors": [
+{
+"name": "zhanxuewen",
+"email": "zhanxuewen2014@126.com"
+}
+],
+"minimum-stability": "dev",
+"require": {}
+}
